@@ -45,9 +45,10 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2007100280</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">King Henry VIII plans to divorce his first wife for Anne Bullen.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Henry VIII&lt;/i&gt; was written by &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt; and possibly collaborated with his successor, John Fletcher, who later replaced Shakespeare in the King’s Men acting company. This work is also known for burning down the Globe Theatre in 1613. During one of its performances, a cannon set fire to the Globe’s thatched roof that quickly spread to through the whole building.&lt;/p&gt;
+			&lt;p&gt;King Henry’s closest advisor, Cardinal Wolsey, is hated by the English citizens. Wolsey has imposed unfair taxes on them, and executing the Duke of Buckingham for treason strengthened their hate for this man. While at a party, the King falls madly in love with Anne Bullen and plans to divorce his current wife, Katherine of Aragorn. Wolsey is asked to help his King in his endeavor, becoming even more hated by the English and their Queen.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
