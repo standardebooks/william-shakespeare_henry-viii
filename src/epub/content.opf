@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/henry-viii</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-09-04T19:07:39Z</dc:date>
+		<meta property="dcterms:modified">2021-09-04T19:07:39Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,16 +47,16 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">King Henry VIII plans to divorce his first wife for Anne Bullen.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Henry VIII&lt;/i&gt; was written by &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt; and possibly collaborated with his successor, John Fletcher, who later replaced Shakespeare in the King’s Men acting company. This work is also known for burning down the Globe Theatre in 1613. During one of its performances, a cannon set fire to the Globe’s thatched roof that quickly spread to through the whole building.&lt;/p&gt;
-			&lt;p&gt;King Henry’s closest advisor, Cardinal Wolsey, is hated by the English citizens. Wolsey has imposed unfair taxes on them, and executing the Duke of Buckingham for treason strengthened their hate for this man. While at a party, the King falls madly in love with Anne Bullen and plans to divorce his current wife, Katherine of Aragorn. Wolsey is asked to help his King in his endeavor, becoming even more hated by the English and their Queen.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Henry VIII&lt;/i&gt; is one of the few of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare's&lt;/a&gt; plays thought to have been written with a collaborator. It was initially published in the First Folio under Shakespeare's name only, but in 1850 James Spedding, an English author and expert on the works of Francis Bacon, suggested that the play was a collaboration with John Fletcher, a playwright who later replaced Shakespeare in the King’s Men acting company. Modern scholars mostly tend to agree, though the theory is still controversial as it's based on textual analysis and not any historical mention of a collaboration. The play is also famous for having burned down the Globe Theatre in 1613 during one of its early performances, when a cannon shot special effect lit the theater's thatched roof on fire.&lt;/p&gt;
+			&lt;p&gt;In the play, King Henry’s closest advisor, Cardinal Wolsey, is hated by the citizens of England. Wolsey has imposed unfair taxes and unpopularly executed the Duke of Buckingham for treason. While at a party, the King falls madly in love with Anne Bullen and plans to divorce his current wife, Katherine of Aragon. Wolsey is asked to help his King in this endeavor, all the while becoming even more hated by the English and their Queen.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/henryviii/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">26383</meta>
+		<meta property="se:reading-ease.flesch">77.87</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.m.wikipedia.org/wiki/Henry_VIII_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_henry-viii</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -80,6 +80,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
