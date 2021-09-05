@@ -45,6 +45,8 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2007100280</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">King Henry VIII plans to divorce his first wife for Anne Bullen.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Henry VIII&lt;/i&gt; is one of the few of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; plays thought to have been written with a collaborator. It was initially published in the First Folio under Shakespeare’s name only, but in 1850 James Spedding, an English author and expert on the works of Francis Bacon, suggested that the play was a collaboration with John Fletcher, a playwright who later replaced Shakespeare in the King’s Men acting company. Modern scholars mostly tend to agree, though the theory is still controversial as it’s based on textual analysis and not any historical mention of a collaboration. The play is also famous for having burned down the Globe Theatre in 1613 during one of its early performances, when a cannon shot special effect lit the theater’s thatched roof on fire.&lt;/p&gt;
