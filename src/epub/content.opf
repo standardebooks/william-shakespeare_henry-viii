@@ -28,8 +28,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Henry VIII</dc:title>
 		<meta property="file-as" refines="#title">Henry VIII</meta>
-		<meta property="se:alternate-title" refines="#title">Henry the 8th</meta>
-		<meta property="se:alternate-title" refines="#title">Henry the Eighth</meta>
+		<meta property="dcterms:alternate" refines="#title">Henry the 8th</meta>
+		<meta property="dcterms:alternate" refines="#title">Henry the Eighth</meta>
 		<dc:subject id="subject-1">Great Britain -- Kings and rulers -- Drama</dc:subject>
 		<dc:subject id="subject-2">Henry, VIII, King of England, 1491-1547 -- Drama</dc:subject>
 		<dc:subject id="subject-3">Historical drama</dc:subject>
