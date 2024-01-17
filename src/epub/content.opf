@@ -66,6 +66,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Emanuel Gottlieb Leutze</dc:contributor>
 		<meta property="file-as" refines="#artist">Leutze, Emanuel Gottlieb</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82096322</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Emanuel_Leutze</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jeremy Hylton</dc:contributor>
